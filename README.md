@@ -1,7 +1,7 @@
 # Proyecto-Programacion
 Proyecto 1 de Programación 2.
 
-Creación de base de datos y tablas del proyecto:
+Base de datos y tabla del proyecto:
 
 CREATE DATABASE `ejemplo`;
 USE DATABASE `ejemplo`;
